@@ -1,0 +1,25 @@
+D:\c\2048\2048\bin\Debug\2048.exe
+D:\c\2048\2048\bin\Debug\2048.pdb
+D:\c\2048\2048\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c\2048\2048\obj\x86\Debug\_2048.Form1.resources
+D:\c\2048\2048\obj\x86\Debug\_2048.Properties.Resources.resources
+D:\c\2048\2048\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\c\2048\2048\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\c\2048\2048\obj\x86\Debug\2048.exe
+D:\c\2048\2048\obj\x86\Debug\2048.pdb
+D:\11C\Rete Catalina\2048\2048\obj\x86\Debug\2048.exe
+D:\11C\Rete Catalina\2048\2048\obj\x86\Debug\2048.pdb
+D:\11C\Rete Catalina\2048\2048\bin\Debug\2048.exe
+D:\11C\Rete Catalina\2048\2048\bin\Debug\2048.pdb
+D:\11C\Rete Catalina\2048\2048\obj\x86\Debug\_2048.Form1.resources
+D:\11C\Rete Catalina\2048\2048\obj\x86\Debug\_2048.Properties.Resources.resources
+D:\11C\Rete Catalina\2048\2048\obj\x86\Debug\2048.csproj.GenerateResource.Cache
+D:\ram\11C-Proiecte C#\Rete Catalina\2048\2048\obj\x86\Debug\2048.exe
+D:\ram\11C-Proiecte C#\Rete Catalina\2048\2048\obj\x86\Debug\2048.pdb
+D:\ram\11C-Proiecte C#\Rete Catalina\2048\2048\bin\Debug\2048.exe
+D:\ram\11C-Proiecte C#\Rete Catalina\2048\2048\bin\Debug\2048.pdb
+D:\ram\11C-Proiecte C#\Rete Catalina\2048\2048\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ram\11C-Proiecte C#\Rete Catalina\2048\2048\obj\x86\Debug\_2048.Form1.resources
+D:\ram\11C-Proiecte C#\Rete Catalina\2048\2048\obj\x86\Debug\_2048.Properties.Resources.resources
+D:\ram\11C-Proiecte C#\Rete Catalina\2048\2048\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ram\11C-Proiecte C#\Rete Catalina\2048\2048\obj\x86\Debug\GenerateResource.write.1.tlog
